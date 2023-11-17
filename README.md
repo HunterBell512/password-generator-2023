@@ -8,7 +8,7 @@ Characters that the generator accepts are:
 * Numbers
 * Special Characters ( * $ @ # & etc. )
 
-# Get your safe and secure password today at: link-name
+# Get your safe and secure password today at: https://hunterbell512.github.io/password-generator-2023/
 
 If you are still on the fence about it, have a sneak peek down below before you try!
 
